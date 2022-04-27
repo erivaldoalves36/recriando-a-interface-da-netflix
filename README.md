@@ -1,2 +1,3 @@
-# recriando-a-interface-da-netflix
-Clone da interface do principal site de streaming mundial
+# Interface da Netflix
+## Clone da interface do principal site de streaming mundial
+[Pagina inicial da Netflix](https://www.netflix.com/browse)
